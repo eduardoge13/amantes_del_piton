@@ -5,3 +5,6 @@ Nuestros propósitos principales son:
  1. Para los que inician en el ambiente: Apoyar en el aprendizaje de Python y de las librerías especializadas para el análisis de datos.
  2. Para los que cuentan con experiencia: Generar librerías, libretas, repositorios, bases de datos y cualquier material que sirva para apoyar en el aprendizaje y en el desarrollo de nuevos proyectos.
 
+Proyectos actuales:
+* [DatosMex](https://github.com/andreslomeliv/DatosMex/)
+* Reuniones de introducción a Python
