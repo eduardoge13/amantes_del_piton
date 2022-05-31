@@ -7,4 +7,4 @@ Nuestros propósitos principales son:
 
 Proyectos actuales:
 * [DatosMex](https://github.com/andreslomeliv/DatosMex/)
-* Reuniones de introducción a Python
+* Introducción a Python
